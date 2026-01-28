@@ -1,0 +1,9 @@
+
+.headerr{
+    background-color: aqua;
+    text-align: center;
+    height: 150px;
+    padding-top: 30px;
+    font-size: 30px;
+    box-shadow: 0px 5px 10px rgb(71, 67, 67);
+}

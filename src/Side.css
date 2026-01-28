@@ -1,0 +1,23 @@
+.side{
+    border: 6px solid green;
+    margin: 20px ;
+    padding: 20x;
+    width: 500px;
+    text-align: center;
+   
+}
+.but{
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 8px;
+    box-shadow: 1px 3px 5px rgb(80, 75, 67);
+    width: 150px;
+    height: 60px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+}
+.but:hover{
+    opacity: 0.9;
+   
+}
