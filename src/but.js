@@ -1,5 +1,9 @@
-export default function But(){
+export default function But({title,children}){
     return (
-  <button className="but">Click</button>
+
+  <button className="but">
+    <p>{title}</p>
+    {children}
+  </button>
     );
 }
