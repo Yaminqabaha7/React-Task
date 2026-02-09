@@ -58,3 +58,11 @@ textarea:focus {
 .btn:hover {
   background-color: #00dada;
 }
+.list {
+  font-size: 28px;
+  text-align: center;
+  margin: 30px auto;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #333;
+}
